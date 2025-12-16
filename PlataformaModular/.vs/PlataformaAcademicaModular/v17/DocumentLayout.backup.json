@@ -1,0 +1,461 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\usermanagement\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:usermanagement\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\usermanagement\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:usermanagement\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\usermanagement\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:usermanagement\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\usermanagement\\nullobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:usermanagement\\nullobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\usermanagement\\academicsystemfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:usermanagement\\academicsystemfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\uiadapter\\uidecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:uiadapter\\uidecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\uiadapter\\uicomposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:uiadapter\\uicomposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\uiadapter\\uibridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:uiadapter\\uibridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\uiadapter\\consoleadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:uiadapter\\consoleadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\resourceoptimizer\\resourceflyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:resourceoptimizer\\resourceflyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\resourceoptimizer\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:resourceoptimizer\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\resourceoptimizer\\draftmemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:resourceoptimizer\\draftmemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\reportsystem\\reportvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:reportsystem\\reportvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\reportsystem\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:reportsystem\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\reportsystem\\exportstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:reportsystem\\exportstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\notificationcenter\\notificationsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:notificationcenter\\notificationsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\notificationcenter\\notificationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:notificationcenter\\notificationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\notificationcenter\\notificationmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:notificationcenter\\notificationmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\notificationcenter\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:notificationcenter\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\data\\academicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:data\\academicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\behaviorextras\\datavisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:behaviorextras\\datavisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\behaviorextras\\customiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:behaviorextras\\customiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\behaviorextras\\assessmenttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:behaviorextras\\assessmenttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\accesscontrol\\sessionstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:accesscontrol\\sessionstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\accesscontrol\\authorizationchain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:accesscontrol\\authorizationchain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|c:\\users\\asus\\source\\repos\\plataformaacademicamodular\\accesscontrol\\accessproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001835E0-4EDA-C6A4-3F17-601EC7CB4D9A}|PlataformaAcademicaModular.csproj|solutionrelative:accesscontrol\\accessproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\UIAdapter\\UIDecorator.cs",
+              "RelativeDocumentMoniker": "UIAdapter\\UIDecorator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\UIAdapter\\UIDecorator.cs",
+              "RelativeToolTip": "UIAdapter\\UIDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T00:55:11.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UIComposite.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\UIAdapter\\UIComposite.cs",
+              "RelativeDocumentMoniker": "UIAdapter\\UIComposite.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\UIAdapter\\UIComposite.cs",
+              "RelativeToolTip": "UIAdapter\\UIComposite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T00:54:35.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UIBridge.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\UIAdapter\\UIBridge.cs",
+              "RelativeDocumentMoniker": "UIAdapter\\UIBridge.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\UIAdapter\\UIBridge.cs",
+              "RelativeToolTip": "UIAdapter\\UIBridge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T00:53:55.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AcademicSystemFacade.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\UserManagement\\AcademicSystemFacade.cs",
+              "RelativeDocumentMoniker": "UserManagement\\AcademicSystemFacade.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\UserManagement\\AcademicSystemFacade.cs",
+              "RelativeToolTip": "UserManagement\\AcademicSystemFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:34:53.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NullObject.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\UserManagement\\NullObject.cs",
+              "RelativeDocumentMoniker": "UserManagement\\NullObject.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\UserManagement\\NullObject.cs",
+              "RelativeToolTip": "UserManagement\\NullObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:35:07.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\UserManagement\\UserFactory.cs",
+              "RelativeDocumentMoniker": "UserManagement\\UserFactory.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\UserManagement\\UserFactory.cs",
+              "RelativeToolTip": "UserManagement\\UserFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:34:33.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\UserManagement\\UserProfile.cs",
+              "RelativeDocumentMoniker": "UserManagement\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\UserManagement\\UserProfile.cs",
+              "RelativeToolTip": "UserManagement\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:35:16.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\UserManagement\\UserSession.cs",
+              "RelativeDocumentMoniker": "UserManagement\\UserSession.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\UserManagement\\UserSession.cs",
+              "RelativeToolTip": "UserManagement\\UserSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:13:46.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:30:47.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsoleAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\UIAdapter\\ConsoleAdapter.cs",
+              "RelativeDocumentMoniker": "UIAdapter\\ConsoleAdapter.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\UIAdapter\\ConsoleAdapter.cs",
+              "RelativeToolTip": "UIAdapter\\ConsoleAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T00:52:54.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResourceFlyweight.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\ResourceOptimizer\\ResourceFlyweight.cs",
+              "RelativeDocumentMoniker": "ResourceOptimizer\\ResourceFlyweight.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\ResourceOptimizer\\ResourceFlyweight.cs",
+              "RelativeToolTip": "ResourceOptimizer\\ResourceFlyweight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T00:52:13.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ObjectPool.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\ResourceOptimizer\\ObjectPool.cs",
+              "RelativeDocumentMoniker": "ResourceOptimizer\\ObjectPool.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\ResourceOptimizer\\ObjectPool.cs",
+              "RelativeToolTip": "ResourceOptimizer\\ObjectPool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T00:51:39.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReportVisitor.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\ReportSystem\\ReportVisitor.cs",
+              "RelativeDocumentMoniker": "ReportSystem\\ReportVisitor.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\ReportSystem\\ReportVisitor.cs",
+              "RelativeToolTip": "ReportSystem\\ReportVisitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T00:49:02.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\ReportSystem\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "ReportSystem\\ReportGenerator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\ReportSystem\\ReportGenerator.cs",
+              "RelativeToolTip": "ReportSystem\\ReportGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T00:48:26.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExportStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\ReportSystem\\ExportStrategy.cs",
+              "RelativeDocumentMoniker": "ReportSystem\\ExportStrategy.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\ReportSystem\\ExportStrategy.cs",
+              "RelativeToolTip": "ReportSystem\\ExportStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T00:46:57.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NotificationSubject.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\NotificationCenter\\NotificationSubject.cs",
+              "RelativeDocumentMoniker": "NotificationCenter\\NotificationSubject.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\NotificationCenter\\NotificationSubject.cs",
+              "RelativeToolTip": "NotificationCenter\\NotificationSubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T00:41:44.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\NotificationCenter\\NotificationService.cs",
+              "RelativeDocumentMoniker": "NotificationCenter\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\NotificationCenter\\NotificationService.cs",
+              "RelativeToolTip": "NotificationCenter\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T00:40:13.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NotificationMediator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\NotificationCenter\\NotificationMediator.cs",
+              "RelativeDocumentMoniker": "NotificationCenter\\NotificationMediator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\NotificationCenter\\NotificationMediator.cs",
+              "RelativeToolTip": "NotificationCenter\\NotificationMediator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T00:39:14.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DraftMemento.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\ResourceOptimizer\\DraftMemento.cs",
+              "RelativeDocumentMoniker": "ResourceOptimizer\\DraftMemento.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\ResourceOptimizer\\DraftMemento.cs",
+              "RelativeToolTip": "ResourceOptimizer\\DraftMemento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:11:42.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AcademicDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\Data\\AcademicDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AcademicDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\Data\\AcademicDbContext.cs",
+              "RelativeToolTip": "Data\\AcademicDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T00:27:30.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AccessProxy.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\AccessControl\\AccessProxy.cs",
+              "RelativeDocumentMoniker": "AccessControl\\AccessProxy.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\AccessControl\\AccessProxy.cs",
+              "RelativeToolTip": "AccessControl\\AccessProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:37:47.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NotificationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\NotificationCenter\\NotificationCommand.cs",
+              "RelativeDocumentMoniker": "NotificationCenter\\NotificationCommand.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\NotificationCenter\\NotificationCommand.cs",
+              "RelativeToolTip": "NotificationCenter\\NotificationCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:32:07.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthorizationChain.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\AccessControl\\AuthorizationChain.cs",
+              "RelativeDocumentMoniker": "AccessControl\\AuthorizationChain.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\AccessControl\\AuthorizationChain.cs",
+              "RelativeToolTip": "AccessControl\\AuthorizationChain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:37:57.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SessionState.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\AccessControl\\SessionState.cs",
+              "RelativeDocumentMoniker": "AccessControl\\SessionState.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\AccessControl\\SessionState.cs",
+              "RelativeToolTip": "AccessControl\\SessionState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:38:02.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AssessmentTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\BehaviorExtras\\AssessmentTemplate.cs",
+              "RelativeDocumentMoniker": "BehaviorExtras\\AssessmentTemplate.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\BehaviorExtras\\AssessmentTemplate.cs",
+              "RelativeToolTip": "BehaviorExtras\\AssessmentTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:09:02.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomIterator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\BehaviorExtras\\CustomIterator.cs",
+              "RelativeDocumentMoniker": "BehaviorExtras\\CustomIterator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\BehaviorExtras\\CustomIterator.cs",
+              "RelativeToolTip": "BehaviorExtras\\CustomIterator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:09:04.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DataVisitor.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\BehaviorExtras\\DataVisitor.cs",
+              "RelativeDocumentMoniker": "BehaviorExtras\\DataVisitor.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PlataformaAcademicaModular\\BehaviorExtras\\DataVisitor.cs",
+              "RelativeToolTip": "BehaviorExtras\\DataVisitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:09:06.758Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
