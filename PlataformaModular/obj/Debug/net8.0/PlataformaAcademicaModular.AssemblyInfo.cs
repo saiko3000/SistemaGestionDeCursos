@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlataformaAcademicaModular")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+568b185d1d23a10cad13ef05778aa7271056ba5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlataformaAcademicaModular")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlataformaAcademicaModular")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
